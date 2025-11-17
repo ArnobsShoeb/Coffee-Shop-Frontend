@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Coffee-Shop-Frontend/static/css/main.86b95e20.css",
-    "main.js": "/Coffee-Shop-Frontend/static/js/main.8ebb994c.js",
+    "main.css": "/Coffee-Shop-Frontend/static/css/main.80cdd399.css",
+    "main.js": "/Coffee-Shop-Frontend/static/js/main.218b4bd2.js",
     "static/media/americano.jpg": "/Coffee-Shop-Frontend/static/media/americano.53cf74b40a53711d7d57.jpg",
     "static/media/latte.jpg": "/Coffee-Shop-Frontend/static/media/latte.6ce8c1a7a5b795d2ef23.jpg",
     "static/media/frappuccino.jpg": "/Coffee-Shop-Frontend/static/media/frappuccino.586574d75bee07b52b9f.jpg",
@@ -9,22 +9,17 @@
     "static/media/capuchinno.jpg": "/Coffee-Shop-Frontend/static/media/capuchinno.0ce50a0921cddd2dbc0b.jpg",
     "static/media/cold-brew.jpg": "/Coffee-Shop-Frontend/static/media/cold-brew.2fca6d6e128d4f0fc445.jpg",
     "static/media/iced-coffee.jpg": "/Coffee-Shop-Frontend/static/media/iced-coffee.11cd44d6be410917641c.jpg",
-    "static/media/image1.jpg": "/Coffee-Shop-Frontend/static/media/image1.8560cd9d1093b1c14dee.jpg",
     "static/media/mocha.jpg": "/Coffee-Shop-Frontend/static/media/mocha.4e05e9e5a8b4c76d96e8.jpg",
-    "static/media/image5.jpg": "/Coffee-Shop-Frontend/static/media/image5.d33357ee5e7907e22de6.jpg",
-    "static/media/image2.jpg": "/Coffee-Shop-Frontend/static/media/image2.5e616b0758d7477927f7.jpg",
-    "static/media/image3.jpg": "/Coffee-Shop-Frontend/static/media/image3.255793186e0c15015166.jpg",
-    "static/media/image4.jpg": "/Coffee-Shop-Frontend/static/media/image4.0bdd04aac93b9e417d99.jpg",
     "static/media/KaushanScript.ttf": "/Coffee-Shop-Frontend/static/media/KaushanScript.a668b3d996f7c50fb3fe.ttf",
     "static/media/instagram.png": "/Coffee-Shop-Frontend/static/media/instagram.49f494563b8db5f3fe98.png",
     "static/media/facebook.png": "/Coffee-Shop-Frontend/static/media/facebook.01812c4d7a486c65d885.png",
     "static/media/linkedin.png": "/Coffee-Shop-Frontend/static/media/linkedin.1dd143a731afb245bf24.png",
     "index.html": "/Coffee-Shop-Frontend/index.html",
-    "main.86b95e20.css.map": "/Coffee-Shop-Frontend/static/css/main.86b95e20.css.map",
-    "main.8ebb994c.js.map": "/Coffee-Shop-Frontend/static/js/main.8ebb994c.js.map"
+    "main.80cdd399.css.map": "/Coffee-Shop-Frontend/static/css/main.80cdd399.css.map",
+    "main.218b4bd2.js.map": "/Coffee-Shop-Frontend/static/js/main.218b4bd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.86b95e20.css",
-    "static/js/main.8ebb994c.js"
+    "static/css/main.80cdd399.css",
+    "static/js/main.218b4bd2.js"
   ]
 }
